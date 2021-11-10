@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sadakhatalikhannavab
+Build-Jdk: 16.0.2
+Implementation-Title: push
+Implementation-Version: 0.1.1
+Implementation-Vendor-Id: cn.wildfirechat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/push
+Created-By: Maven Integration for Eclipse
+
